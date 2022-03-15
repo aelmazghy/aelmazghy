@@ -11,7 +11,7 @@ skills = {
         "framework": ["Bootstrap", "MaterialUI"]
     },
     "JavaScript": {
-        "framework": ["Vuejs","Vuetify"]
+        "framework": ["Vuejs", "Vuetify"]
     },
     "PHP": {
         "framework": "Laravel" # lots of love
